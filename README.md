@@ -3,7 +3,7 @@
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/nestor.espinoza@pucp.edu.pe-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nestor.espinoza@pucp.edu.pe)
+[![Email](https://img.shields.io/badge/nestor.espinoza@pucp.edu.pe-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](javascript:void(prompt('Copia este correo:', 'nestor.espinoza@pucp.edu.pe')))
 
 
 
