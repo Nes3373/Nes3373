@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hola, mi nombre es Hugo 👋
+### Aspiring Data Scientist|| Data Analyst || AI Engineer
+
+## Contacto y apoyo:
+
+[![Email](https://img.shields.io/badge/nestor.espinoza@pucp.edu.pe-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nestor.espinoza@pucp.edu.pe)
+
+
 
 <!--
 **Nes3373/Nes3373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
