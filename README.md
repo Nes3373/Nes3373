@@ -1,9 +1,10 @@
 # Hola, mi nombre es Hugo 👋
 ### Aspiring Data Scientist || Data Analyst || AI Engineer
 
-## Portafolio
+## Portafolio 💼
 
 [Proyecto ETL AdventureWorks](https://github.com/Nes3373/Proyecto_ETL_AdventureWorks)
+
 
 
 
